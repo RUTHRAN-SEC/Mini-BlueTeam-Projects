@@ -1,4 +1,4 @@
-# MagicNumber-File-Scanner
+# File Type Identifier
 
 ## Project Description
 
