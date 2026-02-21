@@ -2,7 +2,7 @@
 
 ## Project Description
 
-MagicNumber File Scanner is a security tool that checks the real file type of a file using its internal binary signature also known as a magic number or file signature.
+File Type Identifier is a security tool that checks the real file type of a file using its internal binary signature also known as a magic number or file signature.
 
 Normally, we identify files by their extensions, such as:
 - photo.jpg  
