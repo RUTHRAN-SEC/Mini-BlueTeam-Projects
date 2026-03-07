@@ -12,14 +12,14 @@ Each project is designed to simulate real-world security problems and provide wo
 
 ## Projects In This Repo
 
-### 1. Caesar Cipher Decoder (Frequency Analysis)
+### 1. Caesar Cipher Encrptor
 
-Implements classical cryptanalysis using frequency distribution to automatically break Caesar cipher encrypted text.
+Basic Encrytion method that shows how insecure it is in modern System.  
 
 Concepts covered:
 
-* Substitution ciphers
-* Frequency analysis
+* Caesar ciphers
+* Password Encrytion 
 * Basic cryptography principles
 
 ---
